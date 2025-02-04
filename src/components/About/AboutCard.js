@@ -10,7 +10,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Vaishnavi Pande </span>
             from <span className="purple"> Hingoli, India.</span>
             <br />
-            Final Year IT who loves to transform ideas into reality using
+            Final Year IT student who loves to transform ideas into reality using
             code.
             <br />
             Motivated designer and developer with experience creating
