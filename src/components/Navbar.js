@@ -35,7 +35,7 @@ function NavBar() {
       className={navColour ? "sticky" : "navbar"}
     >
       <Container>
-        <Navbar.Brand href="" target="_blank">
+        <Navbar.Brand href="#home" target="_blank">
           <MdDeveloperMode style={{ marginBottom: "2px" }} /> Portfolio
         </Navbar.Brand>
         <Navbar.Toggle
