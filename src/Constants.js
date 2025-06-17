@@ -36,17 +36,18 @@ export const PROJECTS = [
 ];
 
 export const SKILLS = [
-  { name: "JAVA", initialRating: 3 },
   { name: "C++", initialRating: 4 },
-  { name: "Reactjs", initialRating: 3 },
-  { name: "Nodejs", initialRating: 3 },
+  { name: "JAVA", initialRating: 3 },
   { name: "HTML", initialRating: 4 },
   { name: "CSS", initialRating: 4 },
   { name: "JavaScript", initialRating: 4 },
-  { name: "Python", initialRating: 3 },
+  { name: "Reactjs", initialRating: 3 },
+  { name: "Nodejs", initialRating: 3 },
   { name: "SQL", initialRating: 3 },
   { name: "MongoDB", initialRating: 3 },
   { name: "Git", initialRating: 3 },
+  { name: "Python", initialRating: 3 },
+  { name: "Figma", initialRating: 3 },
 ];
 
-export const TOOLS = ["Visual Studio Code", "Git", "Npm (Node Package Manager)","Postman","IntelliJ Idea"]
+export const TOOLS = ["Visual Studio Code", "Git", "Npm (Node Package Manager)", "Postman", "IntelliJ Idea"]
